@@ -28,7 +28,7 @@
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
   },
-  "name": "indecision-app",
+  "name": "dincider",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Golden",
